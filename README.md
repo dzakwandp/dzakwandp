@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Dzakwan, currently I focused on website development with VueJS framework.<br>If you want to know more about me, feel free to contact me.
+Hi there! My name is Dzakwan, currently I focused on website development with VueJS framework.<br>If you want to know more about me, feel free to contact me at https://dzakwandp.id
 
 
 ## 🌐 Socials:
